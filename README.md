@@ -17,7 +17,7 @@ docker run -it <repo>/rancher-vamp-ui:<version>
 
 ## Versions
 
-- `0.8.4` [(Dockerfile)](
+- `0.8.4` [(Dockerfile)](https://github.com/rawmind0/rancher-vamp-ui/blob/master/Dockerfile)
 
 ## Usage
 
